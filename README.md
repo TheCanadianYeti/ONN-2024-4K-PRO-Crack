@@ -95,3 +95,8 @@ fastboot: error: Command failed
 
 i have not gotten past this point yet, i need to figure out how to unlock it. 
 please feel free to contribute to this project if you have fouund any further information related to cracking the jarvis bootloader
+
+## Author
+
+[Marcus Podnar](https://marcus.podnar.ca) · [GitHub](https://github.com/TheCanadianYeti) · [LinkedIn](https://www.linkedin.com/in/marcus-podnar-582187260/)
+
